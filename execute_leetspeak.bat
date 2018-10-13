@@ -1,0 +1,2 @@
+python leetspeak.py
+pause
